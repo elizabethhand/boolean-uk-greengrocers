@@ -1,0 +1,37 @@
+//RENDER STORE
+//input:items
+//iterate through state objects
+//call listen item function
+//append to list
+
+//CREATE ITEM
+//input: item
+//append list item to list
+//add button, append to item
+//output: list item w/ button
+
+//LISTEN TO ADD BASKET BUTTONS
+//event listener
+//update shopping basket state
+//re render basket
+
+//RENDER BASKET
+//input: basket items
+// loop through items in basket state
+//for each item, call basket list item function
+//append each item to list
+
+
+//CREATE BASKET LIST
+//input:item
+//action: create item
+
+//listen to func?
+//add event listeners to + and - buttons, update and re render page
+//if 0 then delete item
+//call total func
+
+//output:item
+
+//UPDATE TOTAL
+//re render when state changes??
